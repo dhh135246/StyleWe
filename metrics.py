@@ -6,8 +6,8 @@ import argparse
 import torch
 import numpy as np
 from scipy.linalg import sqrtm
-from keras.applications.inception_v3 import InceptionV3
-from keras.applications.inception_v3 import preprocess_input
+from tensorflow.keras.applications.inception_v3 import InceptionV3
+from tensorflow.keras.applications.inception_v3 import preprocess_input
 
 
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = '3'
