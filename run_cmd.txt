@@ -1,0 +1,1 @@
+python sketch_generation\train_ours.py --path_a "D:\ViSeerLAB\StyleWe_dataset\cl\RGB" --path_b "D:\ViSeerLAB\StyleWe_dataset\cl\sketch"
